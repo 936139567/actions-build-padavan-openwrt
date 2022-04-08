@@ -31,7 +31,7 @@ PROXY_FLAG=false                                        # 是否开启代理
 TOOL_FLAG=false                                         # 是否不下载让本地编译工具链
 LOGIN_FLAG=false                                        # 是否修改登录页面
 
-# 使用说明
+# 使用说明1
 usage() {
   app_info
 cat 1>&2 <<EOF
